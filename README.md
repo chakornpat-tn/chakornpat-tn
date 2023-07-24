@@ -7,7 +7,8 @@
 
 - I’m currently learning **Golang**
 
-<h3 align="left">Connect with me:</h3>
+* 🌍  I'm based in Chaing Mai, Thailand
+* ✉️  You can contact me at [chakornpat0206@outlook.com](mailto:chakornpat0206@outlook.com)
 <p align="left">
 </p>
 
