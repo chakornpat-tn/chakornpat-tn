@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+![MasterHead](./github-header-image.png)
 
 <h1 align="center">Hi, I'm Chakornpat Tansriwong</h1>
 <h3 align="center">Computer engineering student</h3>
