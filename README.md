@@ -5,6 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
 
+- I've been learning React.js 1-2 years.
 - I’m currently learning **Golang**
 
 * 🌍  I'm based in Chaing Mai, Thailand
