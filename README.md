@@ -1,6 +1,8 @@
+[![MasterHead](./github-header-image.png)]
+
 <h1 align="center">Hi, I'm Chakornpat Tansriwong</h1>
 <h3 align="center">Computer engineering student</h3>
-![Alt Text](https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif)
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
 
 - I’m currently learning **Golang**
