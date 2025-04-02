@@ -10,16 +10,22 @@ I'm (Ton)Nam, a software developer with a chill indie vibe, passionate about bui
 I enjoy working across the stack, whether it's crafting smooth user experiences or optimizing backend performance.
 </p>
 
+<br>
+
 <h3>About Me</h3>
 
 * 🌍  I'm based in Chaing Mai, Thailand
 * ✉️  You can contact me at [chakornpat0206@outlook.com](mailto:chakornpat0206@outlook.com)
+
+<br>
 
 <h3>Tech Stack</h3>
 
 * 💻 Languages: TypeScript, JavaScript, Go
 * 🔧 Backend: Node.js, Express, ElysiaJS, Prisma, PostgreSQL
 * 🚀 DevOps: Docker, GCP
+
+<br>
 
 <h3 align="left">Languages and Tools</h3>
 <div align="center">
@@ -35,6 +41,8 @@ I enjoy working across the stack, whether it's crafting smooth user experiences 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chakornpat-tn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tonnamchakornpat" />
